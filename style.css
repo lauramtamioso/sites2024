@@ -24,3 +24,6 @@ h1
 .livro2{
   width: 400px;
 }
+a{
+  text-decoration: none;
+}
