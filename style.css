@@ -29,9 +29,22 @@ a{
   text-decoration: none;
 }
 
+  .vermelho{
+    color: red;
+    font-size: 16pt;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
   .azul{
     color: blue;
+    font-size: 20pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
   }
+
+
+
 
 
 
